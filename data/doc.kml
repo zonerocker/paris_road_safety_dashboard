@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+    <name><![CDATA[Liste des échangeurs du boulevard périphérique de Paris]]></name>
+    <open>1</open>
+    <Folder>
+        <name><![CDATA[Liste des échangeurs]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[#1]]></name>
+            <Point>
+                <coordinates>2.39139,48.82722,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#2]]></name>
+            <Point>
+                <coordinates>2.38417,48.82472,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#3]]></name>
+            <Point>
+                <coordinates>2.373185,48.819569,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#4]]></name>
+            <Point>
+                <coordinates>2.36028,48.81611,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#5]]></name>
+            <Point>
+                <coordinates>2.35639,48.81639,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#6]]></name>
+            <Point>
+                <coordinates>2.344,48.8165,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#7]]></name>
+            <Point>
+                <coordinates>2.3392,48.8166,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#8]]></name>
+            <Point>
+                <coordinates>2.3325,48.8184,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#9]]></name>
+            <Point>
+                <coordinates>2.3146,48.8224,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#10]]></name>
+            <Point>
+                <coordinates>2.3049,48.8246,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#11]]></name>
+            <Point>
+                <coordinates>2.303,48.825,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#12]]></name>
+            <Point>
+                <coordinates>2.29528,48.82667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#13]]></name>
+            <Point>
+                <coordinates>2.27722,48.83389,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#14]]></name>
+            <Point>
+                <coordinates>2.2658,48.8348,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#15]]></name>
+            <Point>
+                <coordinates>2.2598,48.835,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#16]]></name>
+            <Point>
+                <coordinates>2.25611,48.83639,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#17]]></name>
+            <Point>
+                <coordinates>2.2546,48.8438,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#18]]></name>
+            <Point>
+                <coordinates>2.2535,48.848,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#19]]></name>
+            <Point>
+                <coordinates>2.2526,48.849,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#20]]></name>
+            <Point>
+                <coordinates>2.2622,48.859,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#21]]></name>
+            <Point>
+                <coordinates>2.265,48.8625,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#22]]></name>
+            <Point>
+                <coordinates>2.2729,48.8712,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#23]]></name>
+            <Point>
+                <coordinates>2.2789,48.8766,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#24]]></name>
+            <Point>
+                <coordinates>2.2829,48.8822,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#25]]></name>
+            <Point>
+                <coordinates>2.2879,48.8858,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#26]]></name>
+            <Point>
+                <coordinates>2.2928,48.8884,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#27]]></name>
+            <Point>
+                <coordinates>2.3007,48.8916,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#28]]></name>
+            <Point>
+                <coordinates>2.3106,48.8967,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#29]]></name>
+            <Point>
+                <coordinates>2.3298,48.9006,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#30]]></name>
+            <Point>
+                <coordinates>2.344,48.9009,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#31]]></name>
+            <Point>
+                <coordinates>2.3588,48.9008,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#32]]></name>
+            <Point>
+                <coordinates>2.371,48.9006,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#33]]></name>
+            <Point>
+                <coordinates>2.3876,48.9004,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#34]]></name>
+            <Point>
+                <coordinates>2.3959,48.8898,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#35]]></name>
+            <Point>
+                <coordinates>2.40111,48.88222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#36]]></name>
+            <Point>
+                <coordinates>2.4085,48.878,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#37]]></name>
+            <Point>
+                <coordinates>2.4135,48.8654,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#38]]></name>
+            <Point>
+                <coordinates>2.414,48.854,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#39]]></name>
+            <Point>
+                <coordinates>2.4145,48.8467,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#40]]></name>
+            <Point>
+                <coordinates>2.4138,48.8439,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#41]]></name>
+            <Point>
+                <coordinates>2.41,48.8343,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#42]]></name>
+            <Point>
+                <coordinates>2.4021,48.8302,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#43]]></name>
+            <Point>
+                <coordinates>2.3912,48.828,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://fr.wikipedia.org/wiki/Liste_des_%C3%A9changeurs_du_boulevard_p%C3%A9riph%C3%A9rique_de_Paris#Liste_des_.C3.A9changeurs">Liste des échangeurs du boulevard périphérique de Paris</a>]]></description>
+        </Placemark>
+    </Folder>
+</Document>
+</kml>
