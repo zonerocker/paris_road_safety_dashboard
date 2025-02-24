@@ -3,3 +3,6 @@ pandas
 streamlit
 notebook
 tabulate
+seaborn
+calendar
+matplotlib
