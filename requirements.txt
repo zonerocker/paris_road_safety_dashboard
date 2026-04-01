@@ -1,8 +1,7 @@
-requests
-pandas
-streamlit
-notebook
-tabulate
-seaborn
-calendar
 matplotlib
+notebook
+pandas
+requests
+seaborn
+streamlit
+tabulate
